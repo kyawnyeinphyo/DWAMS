@@ -1,0 +1,511 @@
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DBAMS2.mdf
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DBAMS2_log.ldf
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DWAMS.exe.config
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DWAMS.exe.manifest
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DWAMS.application
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DWAMS.exe
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DWAMS.pdb
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DWAMS_BLL.dll
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\UserAccount_BLL.dll
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\UserAccount_DAL.dll
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DWAMS_DAL.dll
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\UserAccount_DAL.pdb
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\UserAccount_BLL.pdb
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DWAMS_BLL.pdb
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\bin\Debug\DWAMS_DAL.pdb
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff_and_date.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select_by_date.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_attendance_summery.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_payroll.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Staff.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_department.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_position.rdlc
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAboutSoftware.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAboutUs.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAbout_Us.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAbsent.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAddress.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAdminMesssage.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAttendanceEntry.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmCalendar.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmChitKoKo.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmKyawNyeinPhyo.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmNayLinTun.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmRegisterCompany.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmFlash.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmMain.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmNewuser.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmSaungWaiPhyo.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.Report_Attendance.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.Report_attendance_summery.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.Report_monthly_payroll.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.Report_Staff.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmUnnormalAttendance.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmChangePassword.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmDepartment.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmPosition.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmRegister.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmPayrollEntry.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.Frm_duty_time.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmStaff.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAttendanceDetail.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAttendanceSummery.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmMonthlyPayroll.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.FrmUserAccount.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.Properties.Resources.resources
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.csproj.GenerateResource.Cache
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\RdlCompile.cache
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\RdlCompile.compiled
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.exe.manifest
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.application
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.exe
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS\obj\Debug\DWAMS.pdb
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DBAMS2.mdf
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DBAMS2_log.ldf
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DWAMS.exe.config
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DWAMS.application
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DWAMS.exe
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DWAMS.pdb
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DWAMS_BLL.dll
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\UserAccount_BLL.dll
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\UserAccount_DAL.dll
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\UserAccount_DAL.pdb
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\UserAccount_BLL.pdb
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DWAMS_BLL.pdb
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff_and_date.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select_by_date.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_attendance_summery.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_payroll.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Staff.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_department.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_position.rdlc
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAboutSoftware.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAboutUs.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAbout_Us.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAbsent.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAddress.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAdminMesssage.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAttendanceEntry.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmCalendar.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmChitKoKo.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmKyawNyeinPhyo.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmNayLinTun.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmRegisterCompany.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmFlash.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmMain.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmNewuser.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmSaungWaiPhyo.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.Report_Attendance.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.Report_attendance_summery.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.Report_monthly_payroll.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.Report_Staff.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmUnnormalAttendance.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmChangePassword.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmDepartment.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmPosition.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmRegister.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmPayrollEntry.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.Frm_duty_time.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmStaff.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAttendanceDetail.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAttendanceSummery.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmMonthlyPayroll.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.FrmUserAccount.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.Properties.Resources.resources
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\RdlCompile.cache
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\RdlCompile.compiled
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.application
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.exe
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS\obj\Debug\DWAMS.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DBAMS2.mdf
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DBAMS2_log.ldf
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe.config
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.application
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_BLL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_BLL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_DAL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_BLL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_BLL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff_and_date.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select_by_date.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_attendance_summery.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_payroll.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_department.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_position.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutDeveloper.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutSoftware.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutUs.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAbsent.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAbsentList.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAddress.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAdminMesssage.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceEntry.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmCalendar.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmRegisterCompany.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmFlash.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmMain.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmNewuser.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_Attendance.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_attendance_summery.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_monthly_payroll.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_Staff.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmUnnormalAttendance.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmChangePassword.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmDepartment.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmPosition.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmRegister.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmPayrollEntry.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmDutyTime.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmStaff.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceDetail.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceSummery.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmMonthlyPayroll.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmUserAccount.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\RdlCompile.cache
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\RdlCompile.compiled
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.application
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.exe
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.pdb
+F:\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe.config
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.exe
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.pdb
+F:\DWAMS - Copy\DWAMS\bin\Debug\DBAMS2.mdf
+F:\DWAMS - Copy\DWAMS\bin\Debug\DBAMS2_log.ldf
+F:\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe.manifest
+F:\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.application
+F:\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe
+F:\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.pdb
+F:\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_BLL.dll
+F:\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_BLL.dll
+F:\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_DAL.dll
+F:\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_DAL.dll
+F:\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_DAL.pdb
+F:\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_BLL.pdb
+F:\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_BLL.pdb
+F:\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_DAL.pdb
+F:\DWAMS - Copy\DWAMS\obj\Debug\ResolveAssemblyReference.cache
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff_and_date.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select_by_date.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_attendance_summery.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_payroll.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_department.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_position.rdlc
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutDeveloper.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutSoftware.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutUs.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAbsent.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAbsentList.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAddress.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAdminMesssage.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceEntry.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmCalendar.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmRegisterCompany.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmFlash.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmMain.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmNewuser.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_Attendance.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_attendance_summery.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_monthly_payroll.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_Staff.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmUnnormalAttendance.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmChangePassword.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmDepartment.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmPosition.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmRegister.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmPayrollEntry.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmDutyTime.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmStaff.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceDetail.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceSummery.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmMonthlyPayroll.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmUserAccount.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Properties.Resources.resources
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.csproj.GenerateResource.Cache
+F:\DWAMS - Copy\DWAMS\obj\Debug\RdlCompile.cache
+F:\DWAMS - Copy\DWAMS\obj\Debug\RdlCompile.compiled
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.exe.manifest
+F:\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.application
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DBAMS2.mdf
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DBAMS2_log.ldf
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe.config
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe.manifest
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.application
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.pdb
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_BLL.dll
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_BLL.dll
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_DAL.dll
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_DAL.dll
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_DAL.pdb
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_BLL.pdb
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_BLL.pdb
+D:\02-FrameWork\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_DAL.pdb
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\ResolveAssemblyReference.cache
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff_and_date.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select_by_date.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_attendance_summery.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_payroll.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_department.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_position.rdlc
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutDeveloper.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutSoftware.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutUs.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAbsent.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAbsentList.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAddress.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAdminMesssage.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceEntry.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmCalendar.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmRegisterCompany.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmFlash.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmMain.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmNewuser.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_Attendance.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_attendance_summery.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_monthly_payroll.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_Staff.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmUnnormalAttendance.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmChangePassword.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmDepartment.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmPosition.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmRegister.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmPayrollEntry.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmDutyTime.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmStaff.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceDetail.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceSummery.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmMonthlyPayroll.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmUserAccount.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Properties.Resources.resources
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.csproj.GenerateResource.Cache
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\RdlCompile.cache
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\RdlCompile.compiled
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.exe.manifest
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.application
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.exe
+D:\02-FrameWork\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.pdb
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe.config
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.exe
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.pdb
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff_and_date.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select_by_date.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_attendance_summery.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_payroll.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_department.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_position.rdlc
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutDeveloper.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutSoftware.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAboutUs.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAbsent.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAbsentList.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAddress.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAdminMesssage.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceEntry.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmCalendar.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmRegisterCompany.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmFlash.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmMain.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmNewuser.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_Attendance.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_attendance_summery.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_monthly_payroll.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Report_Staff.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmUnnormalAttendance.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmChangePassword.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmDepartment.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmPosition.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmRegister.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmPayrollEntry.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmDutyTime.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmStaff.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceDetail.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmAttendanceSummery.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmMonthlyPayroll.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.FrmUserAccount.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DBAMS2.mdf
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DBAMS2_log.ldf
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.application
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.exe
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DWAMS.pdb
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_BLL.dll
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_BLL.dll
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_DAL.dll
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_DAL.pdb
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\UserAccount_BLL.pdb
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_BLL.pdb
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.Properties.Resources.resources
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\RdlCompile.cache
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\RdlCompile.compiled
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS\obj\Debug\DWAMS.application
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DBAMS2.mdf
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DBAMS2_log.ldf
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DWAMS.exe.config
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DWAMS.application
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DWAMS.exe
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DWAMS.pdb
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DWAMS_BLL.dll
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\UserAccount_BLL.dll
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\UserAccount_DAL.dll
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\UserAccount_DAL.pdb
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\UserAccount_BLL.pdb
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DWAMS_BLL.pdb
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_Attendance.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff_and_date.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select_by_date.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_attendance_summery.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_payroll.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_Staff.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_department.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_position.rdlc
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAboutDeveloper.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAboutSoftware.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAboutUs.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAbsent.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAbsentList.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAddress.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAdminMesssage.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAttendanceEntry.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmCalendar.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmRegisterCompany.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmFlash.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmMain.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmNewuser.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.Report_Attendance.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.Report_attendance_summery.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.Report_monthly_payroll.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.Report_Staff.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmUnnormalAttendance.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmChangePassword.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmDepartment.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmPosition.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmRegister.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmPayrollEntry.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmDutyTime.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmStaff.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAttendanceDetail.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmAttendanceSummery.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmMonthlyPayroll.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.FrmUserAccount.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.Properties.Resources.resources
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\RdlCompile.cache
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\RdlCompile.compiled
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.application
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.exe
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS\obj\Debug\DWAMS.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DBAMS2.mdf
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DBAMS2_log.ldf
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DWAMS.exe.config
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DWAMS.application
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DWAMS.exe
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DWAMS.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DWAMS_BLL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\UserAccount_BLL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\UserAccount_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\UserAccount_DAL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\UserAccount_BLL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DWAMS_BLL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_by_staff_and_date.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Attendance_select_by_date.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_attendance_summery.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_payroll.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Staff.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_department.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.rdlc_Staff_by_position.rdlc
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAboutDeveloper.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAboutSoftware.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAboutUs.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAbsent.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAbsentList.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAddress.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAdminMesssage.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAttendanceEntry.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmCalendar.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmHelp.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmRegisterCompany.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmFlash.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmMain.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmNewuser.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.Report_Attendance.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.Report_attendance_summery.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.Report_monthly_payroll.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.Report_Staff.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmUnnormalAttendance.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmChangePassword.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmDepartment.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmPosition.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmRegister.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmPayrollEntry.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmDutyTime.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmStaff.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAttendanceDetail.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmAttendanceSummery.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmMonthlyPayroll.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.FrmUserAccount.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\RdlCompile.cache
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\RdlCompile.compiled
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.exe.manifest
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.application
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.exe
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS\obj\Debug\DWAMS.pdb

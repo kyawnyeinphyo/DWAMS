@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet_attendance" targetNamespace="http://tempuri.org/DataSet_attendance.xsd" xmlns:mstns="http://tempuri.org/DataSet_attendance.xsd" xmlns="http://tempuri.org/DataSet_attendance.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DBAMS2ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="DBAMS2ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DWAMS.Properties.Settings.GlobalReference.Default.DBAMS2ConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Attendance_selectTableAdapter" GeneratorDataComponentClassName="Attendance_selectTableAdapter" Name="Attendance_select" UserDataComponentName="Attendance_selectTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBAMS2ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>	SELECT TblDailyAttendance.AttendanceDate, TblStaff.StaffCode, TblStaff.StaffName, TblDailyAttendance.DutyIn, 
+                      TblDailyAttendance.DutyOut, TblDailyAttendance.LateDutyIn, TblDailyAttendance.EarlyDutyOut, TblDailyAttendance.Remark1, TblDailyAttendance.Remark2
+	FROM         TblStaff INNER JOIN
+						  TblDailyAttendance ON TblStaff.StaffId = TblDailyAttendance.StaffId
+	ORDER BY TblDailyAttendance.AttendanceDate desc, TblStaff.StaffCode	
+</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="AttendanceDate" DataSetColumn="AttendanceDate" />
+              <Mapping SourceColumn="StaffCode" DataSetColumn="StaffCode" />
+              <Mapping SourceColumn="StaffName" DataSetColumn="StaffName" />
+              <Mapping SourceColumn="DutyIn" DataSetColumn="DutyIn" />
+              <Mapping SourceColumn="DutyOut" DataSetColumn="DutyOut" />
+              <Mapping SourceColumn="LateDutyIn" DataSetColumn="LateDutyIn" />
+              <Mapping SourceColumn="EarlyDutyOut" DataSetColumn="EarlyDutyOut" />
+              <Mapping SourceColumn="Remark1" DataSetColumn="Remark1" />
+              <Mapping SourceColumn="Remark2" DataSetColumn="Remark2" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Attendance_select_by_dateTableAdapter" GeneratorDataComponentClassName="Attendance_select_by_dateTableAdapter" Name="Attendance_select_by_date" UserDataComponentName="Attendance_select_by_dateTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBAMS2ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT     TblDailyAttendance.AttendanceDate, TblStaff.StaffCode, TblStaff.StaffName, TblDailyAttendance.DutyIn, TblDailyAttendance.DutyOut, TblDailyAttendance.LateDutyIn, TblDailyAttendance.EarlyDutyOut, TblDailyAttendance.Remark1, TblDailyAttendance.Remark2
+FROM         TblStaff INNER JOIN
+                      TblDailyAttendance ON TblStaff.StaffId = TblDailyAttendance.StaffId
+WHERE     (TblDailyAttendance.AttendanceDate BETWEEN @startdate AND @enddate)
+ORDER BY TblDailyAttendance.AttendanceDate DESC, TblStaff.StaffCode</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="startdate" ColumnName="AttendanceDate" DataSourceName="[C:\USERS\MICHAEL\DOCUMENTS\VISUAL STUDIO 2005\PROJECTS\DWAMS\DWAMS\DBAMS2.MDF].dbo.TblDailyAttendance" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@startdate" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="AttendanceDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="enddate" ColumnName="AttendanceDate" DataSourceName="[C:\USERS\MICHAEL\DOCUMENTS\VISUAL STUDIO 2005\PROJECTS\DWAMS\DWAMS\DBAMS2.MDF].dbo.TblDailyAttendance" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@enddate" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="AttendanceDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="AttendanceDate" DataSetColumn="AttendanceDate" />
+              <Mapping SourceColumn="StaffCode" DataSetColumn="StaffCode" />
+              <Mapping SourceColumn="StaffName" DataSetColumn="StaffName" />
+              <Mapping SourceColumn="DutyIn" DataSetColumn="DutyIn" />
+              <Mapping SourceColumn="DutyOut" DataSetColumn="DutyOut" />
+              <Mapping SourceColumn="LateDutyIn" DataSetColumn="LateDutyIn" />
+              <Mapping SourceColumn="EarlyDutyOut" DataSetColumn="EarlyDutyOut" />
+              <Mapping SourceColumn="Remark1" DataSetColumn="Remark1" />
+              <Mapping SourceColumn="Remark2" DataSetColumn="Remark2" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Attendance_by_staffTableAdapter" GeneratorDataComponentClassName="Attendance_by_staffTableAdapter" Name="Attendance_by_staff" UserDataComponentName="Attendance_by_staffTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBAMS2ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT     TblDailyAttendance.AttendanceDate, TblStaff.StaffCode, TblStaff.StaffName, TblDailyAttendance.DutyIn, TblDailyAttendance.DutyOut, TblDailyAttendance.LateDutyIn, TblDailyAttendance.EarlyDutyOut, TblDailyAttendance.Remark1, TblDailyAttendance.Remark2
+FROM         TblStaff INNER JOIN
+                      TblDailyAttendance ON TblStaff.StaffId = TblDailyAttendance.StaffId
+WHERE     (TblDailyAttendance.StaffId = @staffid)
+ORDER BY TblDailyAttendance.AttendanceDate DESC, TblStaff.StaffCode</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="staffid" ColumnName="StaffId" DataSourceName="[C:\USERS\MICHAEL\DOCUMENTS\VISUAL STUDIO 2005\PROJECTS\DWAMS\DWAMS\DBAMS2.MDF].dbo.TblDailyAttendance" DataTypeServer="char(36)" DbType="AnsiString" Direction="Input" ParameterName="@staffid" Precision="0" ProviderType="Char" Scale="0" Size="36" SourceColumn="StaffId" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="AttendanceDate" DataSetColumn="AttendanceDate" />
+              <Mapping SourceColumn="StaffCode" DataSetColumn="StaffCode" />
+              <Mapping SourceColumn="StaffName" DataSetColumn="StaffName" />
+              <Mapping SourceColumn="DutyIn" DataSetColumn="DutyIn" />
+              <Mapping SourceColumn="DutyOut" DataSetColumn="DutyOut" />
+              <Mapping SourceColumn="LateDutyIn" DataSetColumn="LateDutyIn" />
+              <Mapping SourceColumn="EarlyDutyOut" DataSetColumn="EarlyDutyOut" />
+              <Mapping SourceColumn="Remark1" DataSetColumn="Remark1" />
+              <Mapping SourceColumn="Remark2" DataSetColumn="Remark2" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Attendance_by_staff_and_dateTableAdapter" GeneratorDataComponentClassName="Attendance_by_staff_and_dateTableAdapter" Name="Attendance_by_staff_and_date" UserDataComponentName="Attendance_by_staff_and_dateTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBAMS2ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT     TblDailyAttendance.AttendanceDate, TblStaff.StaffCode, TblStaff.StaffName, TblDailyAttendance.DutyIn, TblDailyAttendance.DutyOut, TblDailyAttendance.LateDutyIn, TblDailyAttendance.EarlyDutyOut, TblDailyAttendance.Remark1, TblDailyAttendance.Remark2
+FROM         TblStaff INNER JOIN
+                      TblDailyAttendance ON TblStaff.StaffId = TblDailyAttendance.StaffId
+WHERE     (TblDailyAttendance.StaffId = @staffid) AND (TblDailyAttendance.AttendanceDate BETWEEN @startdate AND @enddate)
+ORDER BY TblDailyAttendance.AttendanceDate DESC, TblStaff.StaffCode</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="staffid" ColumnName="StaffId" DataSourceName="[C:\USERS\MICHAEL\DOCUMENTS\VISUAL STUDIO 2005\PROJECTS\DWAMS\DWAMS\DBAMS2.MDF].dbo.TblDailyAttendance" DataTypeServer="char(36)" DbType="AnsiString" Direction="Input" ParameterName="@staffid" Precision="0" ProviderType="Char" Scale="0" Size="36" SourceColumn="StaffId" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="startdate" ColumnName="AttendanceDate" DataSourceName="[C:\USERS\MICHAEL\DOCUMENTS\VISUAL STUDIO 2005\PROJECTS\DWAMS\DWAMS\DBAMS2.MDF].dbo.TblDailyAttendance" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@startdate" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="AttendanceDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="enddate" ColumnName="AttendanceDate" DataSourceName="[C:\USERS\MICHAEL\DOCUMENTS\VISUAL STUDIO 2005\PROJECTS\DWAMS\DWAMS\DBAMS2.MDF].dbo.TblDailyAttendance" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@enddate" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="AttendanceDate" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="AttendanceDate" DataSetColumn="AttendanceDate" />
+              <Mapping SourceColumn="StaffCode" DataSetColumn="StaffCode" />
+              <Mapping SourceColumn="StaffName" DataSetColumn="StaffName" />
+              <Mapping SourceColumn="DutyIn" DataSetColumn="DutyIn" />
+              <Mapping SourceColumn="DutyOut" DataSetColumn="DutyOut" />
+              <Mapping SourceColumn="LateDutyIn" DataSetColumn="LateDutyIn" />
+              <Mapping SourceColumn="EarlyDutyOut" DataSetColumn="EarlyDutyOut" />
+              <Mapping SourceColumn="Remark1" DataSetColumn="Remark1" />
+              <Mapping SourceColumn="Remark2" DataSetColumn="Remark2" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet_attendance" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet_attendance" msprop:Generator_DataSetName="DataSet_attendance">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Attendance_select" msprop:Generator_UserTableName="Attendance_select" msprop:Generator_RowDeletedName="Attendance_selectRowDeleted" msprop:Generator_RowChangedName="Attendance_selectRowChanged" msprop:Generator_RowClassName="Attendance_selectRow" msprop:Generator_RowChangingName="Attendance_selectRowChanging" msprop:Generator_RowEvArgName="Attendance_selectRowChangeEvent" msprop:Generator_RowEvHandlerName="Attendance_selectRowChangeEventHandler" msprop:Generator_TableClassName="Attendance_selectDataTable" msprop:Generator_TableVarName="tableAttendance_select" msprop:Generator_RowDeletingName="Attendance_selectRowDeleting" msprop:Generator_TablePropName="Attendance_select">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AttendanceDate" msprop:Generator_UserColumnName="AttendanceDate" msprop:Generator_ColumnVarNameInTable="columnAttendanceDate" msprop:Generator_ColumnPropNameInRow="AttendanceDate" msprop:Generator_ColumnPropNameInTable="AttendanceDateColumn" type="xs:dateTime" />
+              <xs:element name="StaffCode" msprop:Generator_UserColumnName="StaffCode" msprop:Generator_ColumnVarNameInTable="columnStaffCode" msprop:Generator_ColumnPropNameInRow="StaffCode" msprop:Generator_ColumnPropNameInTable="StaffCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StaffName" msprop:Generator_UserColumnName="StaffName" msprop:Generator_ColumnVarNameInTable="columnStaffName" msprop:Generator_ColumnPropNameInRow="StaffName" msprop:Generator_ColumnPropNameInTable="StaffNameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DutyIn" msprop:Generator_UserColumnName="DutyIn" msprop:Generator_ColumnVarNameInTable="columnDutyIn" msprop:Generator_ColumnPropNameInRow="DutyIn" msprop:Generator_ColumnPropNameInTable="DutyInColumn" type="xs:dateTime" />
+              <xs:element name="DutyOut" msprop:Generator_UserColumnName="DutyOut" msprop:Generator_ColumnVarNameInTable="columnDutyOut" msprop:Generator_ColumnPropNameInRow="DutyOut" msprop:Generator_ColumnPropNameInTable="DutyOutColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LateDutyIn" msprop:Generator_UserColumnName="LateDutyIn" msprop:Generator_ColumnVarNameInTable="columnLateDutyIn" msprop:Generator_ColumnPropNameInRow="LateDutyIn" msprop:Generator_ColumnPropNameInTable="LateDutyInColumn" type="xs:decimal" />
+              <xs:element name="EarlyDutyOut" msprop:Generator_UserColumnName="EarlyDutyOut" msprop:Generator_ColumnVarNameInTable="columnEarlyDutyOut" msprop:Generator_ColumnPropNameInRow="EarlyDutyOut" msprop:Generator_ColumnPropNameInTable="EarlyDutyOutColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Remark1" msprop:Generator_UserColumnName="Remark1" msprop:Generator_ColumnVarNameInTable="columnRemark1" msprop:Generator_ColumnPropNameInRow="Remark1" msprop:Generator_ColumnPropNameInTable="Remark1Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remark2" msprop:Generator_UserColumnName="Remark2" msprop:Generator_ColumnVarNameInTable="columnRemark2" msprop:Generator_ColumnPropNameInRow="Remark2" msprop:Generator_ColumnPropNameInTable="Remark2Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Attendance_select_by_date" msprop:Generator_UserTableName="Attendance_select_by_date" msprop:Generator_RowDeletedName="Attendance_select_by_dateRowDeleted" msprop:Generator_RowChangedName="Attendance_select_by_dateRowChanged" msprop:Generator_RowClassName="Attendance_select_by_dateRow" msprop:Generator_RowChangingName="Attendance_select_by_dateRowChanging" msprop:Generator_RowEvArgName="Attendance_select_by_dateRowChangeEvent" msprop:Generator_RowEvHandlerName="Attendance_select_by_dateRowChangeEventHandler" msprop:Generator_TableClassName="Attendance_select_by_dateDataTable" msprop:Generator_TableVarName="tableAttendance_select_by_date" msprop:Generator_RowDeletingName="Attendance_select_by_dateRowDeleting" msprop:Generator_TablePropName="Attendance_select_by_date">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AttendanceDate" msprop:Generator_UserColumnName="AttendanceDate" msprop:Generator_ColumnVarNameInTable="columnAttendanceDate" msprop:Generator_ColumnPropNameInRow="AttendanceDate" msprop:Generator_ColumnPropNameInTable="AttendanceDateColumn" type="xs:dateTime" />
+              <xs:element name="StaffCode" msprop:Generator_UserColumnName="StaffCode" msprop:Generator_ColumnVarNameInTable="columnStaffCode" msprop:Generator_ColumnPropNameInRow="StaffCode" msprop:Generator_ColumnPropNameInTable="StaffCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StaffName" msprop:Generator_UserColumnName="StaffName" msprop:Generator_ColumnVarNameInTable="columnStaffName" msprop:Generator_ColumnPropNameInRow="StaffName" msprop:Generator_ColumnPropNameInTable="StaffNameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DutyIn" msprop:Generator_UserColumnName="DutyIn" msprop:Generator_ColumnVarNameInTable="columnDutyIn" msprop:Generator_ColumnPropNameInRow="DutyIn" msprop:Generator_ColumnPropNameInTable="DutyInColumn" type="xs:dateTime" />
+              <xs:element name="DutyOut" msprop:Generator_UserColumnName="DutyOut" msprop:Generator_ColumnVarNameInTable="columnDutyOut" msprop:Generator_ColumnPropNameInRow="DutyOut" msprop:Generator_ColumnPropNameInTable="DutyOutColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LateDutyIn" msprop:Generator_UserColumnName="LateDutyIn" msprop:Generator_ColumnVarNameInTable="columnLateDutyIn" msprop:Generator_ColumnPropNameInRow="LateDutyIn" msprop:Generator_ColumnPropNameInTable="LateDutyInColumn" type="xs:decimal" />
+              <xs:element name="EarlyDutyOut" msprop:Generator_UserColumnName="EarlyDutyOut" msprop:Generator_ColumnVarNameInTable="columnEarlyDutyOut" msprop:Generator_ColumnPropNameInRow="EarlyDutyOut" msprop:Generator_ColumnPropNameInTable="EarlyDutyOutColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Remark1" msprop:Generator_UserColumnName="Remark1" msprop:Generator_ColumnVarNameInTable="columnRemark1" msprop:Generator_ColumnPropNameInRow="Remark1" msprop:Generator_ColumnPropNameInTable="Remark1Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remark2" msprop:Generator_UserColumnName="Remark2" msprop:Generator_ColumnVarNameInTable="columnRemark2" msprop:Generator_ColumnPropNameInRow="Remark2" msprop:Generator_ColumnPropNameInTable="Remark2Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Attendance_by_staff" msprop:Generator_UserTableName="Attendance_by_staff" msprop:Generator_RowDeletedName="Attendance_by_staffRowDeleted" msprop:Generator_TableClassName="Attendance_by_staffDataTable" msprop:Generator_RowChangedName="Attendance_by_staffRowChanged" msprop:Generator_RowClassName="Attendance_by_staffRow" msprop:Generator_RowChangingName="Attendance_by_staffRowChanging" msprop:Generator_RowEvArgName="Attendance_by_staffRowChangeEvent" msprop:Generator_RowEvHandlerName="Attendance_by_staffRowChangeEventHandler" msprop:Generator_TablePropName="Attendance_by_staff" msprop:Generator_TableVarName="tableAttendance_by_staff" msprop:Generator_RowDeletingName="Attendance_by_staffRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AttendanceDate" msprop:Generator_UserColumnName="AttendanceDate" msprop:Generator_ColumnPropNameInRow="AttendanceDate" msprop:Generator_ColumnVarNameInTable="columnAttendanceDate" msprop:Generator_ColumnPropNameInTable="AttendanceDateColumn" type="xs:dateTime" />
+              <xs:element name="StaffCode" msprop:Generator_UserColumnName="StaffCode" msprop:Generator_ColumnPropNameInRow="StaffCode" msprop:Generator_ColumnVarNameInTable="columnStaffCode" msprop:Generator_ColumnPropNameInTable="StaffCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StaffName" msprop:Generator_UserColumnName="StaffName" msprop:Generator_ColumnPropNameInRow="StaffName" msprop:Generator_ColumnVarNameInTable="columnStaffName" msprop:Generator_ColumnPropNameInTable="StaffNameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DutyIn" msprop:Generator_UserColumnName="DutyIn" msprop:Generator_ColumnPropNameInRow="DutyIn" msprop:Generator_ColumnVarNameInTable="columnDutyIn" msprop:Generator_ColumnPropNameInTable="DutyInColumn" type="xs:dateTime" />
+              <xs:element name="DutyOut" msprop:Generator_UserColumnName="DutyOut" msprop:Generator_ColumnPropNameInRow="DutyOut" msprop:Generator_ColumnVarNameInTable="columnDutyOut" msprop:Generator_ColumnPropNameInTable="DutyOutColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LateDutyIn" msprop:Generator_UserColumnName="LateDutyIn" msprop:Generator_ColumnPropNameInRow="LateDutyIn" msprop:Generator_ColumnVarNameInTable="columnLateDutyIn" msprop:Generator_ColumnPropNameInTable="LateDutyInColumn" type="xs:decimal" />
+              <xs:element name="EarlyDutyOut" msprop:Generator_UserColumnName="EarlyDutyOut" msprop:Generator_ColumnPropNameInRow="EarlyDutyOut" msprop:Generator_ColumnVarNameInTable="columnEarlyDutyOut" msprop:Generator_ColumnPropNameInTable="EarlyDutyOutColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Remark1" msprop:Generator_UserColumnName="Remark1" msprop:Generator_ColumnPropNameInRow="Remark1" msprop:Generator_ColumnVarNameInTable="columnRemark1" msprop:Generator_ColumnPropNameInTable="Remark1Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remark2" msprop:Generator_UserColumnName="Remark2" msprop:Generator_ColumnPropNameInRow="Remark2" msprop:Generator_ColumnVarNameInTable="columnRemark2" msprop:Generator_ColumnPropNameInTable="Remark2Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Attendance_by_staff_and_date" msprop:Generator_UserTableName="Attendance_by_staff_and_date" msprop:Generator_RowDeletedName="Attendance_by_staff_and_dateRowDeleted" msprop:Generator_TableClassName="Attendance_by_staff_and_dateDataTable" msprop:Generator_RowChangedName="Attendance_by_staff_and_dateRowChanged" msprop:Generator_RowClassName="Attendance_by_staff_and_dateRow" msprop:Generator_RowChangingName="Attendance_by_staff_and_dateRowChanging" msprop:Generator_RowEvArgName="Attendance_by_staff_and_dateRowChangeEvent" msprop:Generator_RowEvHandlerName="Attendance_by_staff_and_dateRowChangeEventHandler" msprop:Generator_TablePropName="Attendance_by_staff_and_date" msprop:Generator_TableVarName="tableAttendance_by_staff_and_date" msprop:Generator_RowDeletingName="Attendance_by_staff_and_dateRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AttendanceDate" msprop:Generator_UserColumnName="AttendanceDate" msprop:Generator_ColumnPropNameInRow="AttendanceDate" msprop:Generator_ColumnVarNameInTable="columnAttendanceDate" msprop:Generator_ColumnPropNameInTable="AttendanceDateColumn" type="xs:dateTime" />
+              <xs:element name="StaffCode" msprop:Generator_UserColumnName="StaffCode" msprop:Generator_ColumnPropNameInRow="StaffCode" msprop:Generator_ColumnVarNameInTable="columnStaffCode" msprop:Generator_ColumnPropNameInTable="StaffCodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StaffName" msprop:Generator_UserColumnName="StaffName" msprop:Generator_ColumnPropNameInRow="StaffName" msprop:Generator_ColumnVarNameInTable="columnStaffName" msprop:Generator_ColumnPropNameInTable="StaffNameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DutyIn" msprop:Generator_UserColumnName="DutyIn" msprop:Generator_ColumnPropNameInRow="DutyIn" msprop:Generator_ColumnVarNameInTable="columnDutyIn" msprop:Generator_ColumnPropNameInTable="DutyInColumn" type="xs:dateTime" />
+              <xs:element name="DutyOut" msprop:Generator_UserColumnName="DutyOut" msprop:Generator_ColumnPropNameInRow="DutyOut" msprop:Generator_ColumnVarNameInTable="columnDutyOut" msprop:Generator_ColumnPropNameInTable="DutyOutColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LateDutyIn" msprop:Generator_UserColumnName="LateDutyIn" msprop:Generator_ColumnPropNameInRow="LateDutyIn" msprop:Generator_ColumnVarNameInTable="columnLateDutyIn" msprop:Generator_ColumnPropNameInTable="LateDutyInColumn" type="xs:decimal" />
+              <xs:element name="EarlyDutyOut" msprop:Generator_UserColumnName="EarlyDutyOut" msprop:Generator_ColumnPropNameInRow="EarlyDutyOut" msprop:Generator_ColumnVarNameInTable="columnEarlyDutyOut" msprop:Generator_ColumnPropNameInTable="EarlyDutyOutColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Remark1" msprop:Generator_UserColumnName="Remark1" msprop:Generator_ColumnPropNameInRow="Remark1" msprop:Generator_ColumnVarNameInTable="columnRemark1" msprop:Generator_ColumnPropNameInTable="Remark1Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remark2" msprop:Generator_UserColumnName="Remark2" msprop:Generator_ColumnPropNameInRow="Remark2" msprop:Generator_ColumnVarNameInTable="columnRemark2" msprop:Generator_ColumnPropNameInTable="Remark2Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

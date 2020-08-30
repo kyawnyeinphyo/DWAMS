@@ -1,0 +1,45 @@
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS BackUp\DWAMS\DWAMS_DAL\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS BackUp\DWAMS\DWAMS_DAL\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS BackUp\DWAMS\DWAMS_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS BackUp\DWAMS\DWAMS_DAL\obj\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS BackUp\DWAMS\DWAMS_DAL\obj\Debug\DWAMS_DAL.pdb
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS_DAL\bin\Debug\DWAMS_DAL.dll
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS_DAL\bin\Debug\DWAMS_DAL.pdb
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS_DAL\obj\Debug\DWAMS_DAL.dll
+C:\Users\SWP\Desktop\New folder (3)\DWAMS\DWAMS_DAL\obj\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS_DAL\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS_DAL\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS_DAL\obj\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Desktop\From SWP\DWAMS\DWAMS_DAL\obj\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS_DAL\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS_DAL\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS_DAL\obj\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS - Copy\DWAMS_DAL\obj\Debug\DWAMS_DAL.pdb
+F:\DWAMS - Copy\DWAMS_DAL\bin\Debug\DWAMS_DAL.dll
+F:\DWAMS - Copy\DWAMS_DAL\bin\Debug\DWAMS_DAL.pdb
+F:\DWAMS - Copy\DWAMS_DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\DWAMS - Copy\DWAMS_DAL\obj\Debug\DWAMS_DAL.dll
+F:\DWAMS - Copy\DWAMS_DAL\obj\Debug\DWAMS_DAL.pdb
+D:\02-FrameWork\DWAMS - Copy\DWAMS_DAL\bin\Debug\DWAMS_DAL.dll
+D:\02-FrameWork\DWAMS - Copy\DWAMS_DAL\bin\Debug\DWAMS_DAL.pdb
+D:\02-FrameWork\DWAMS - Copy\DWAMS_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\02-FrameWork\DWAMS - Copy\DWAMS_DAL\obj\Debug\DWAMS_DAL.dll
+D:\02-FrameWork\DWAMS - Copy\DWAMS_DAL\obj\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS_DAL\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS_DAL\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS_DAL\obj\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Desktop\DWAMS - Copy\DWAMS_DAL\obj\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS_DAL\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS_DAL\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS_DAL\obj\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Desktop\DWAMS Final\DWAMS_DAL\obj\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS_DAL\bin\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS_DAL\bin\Debug\DWAMS_DAL.pdb
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS_DAL\obj\Debug\DWAMS_DAL.dll
+C:\Users\Michael\Documents\Visual Studio 2005\projects\DWAMS\DWAMS_DAL\obj\Debug\DWAMS_DAL.pdb
